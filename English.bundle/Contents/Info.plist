@@ -5,17 +5,17 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.english</string>
 	<key>CFBundleName</key>
-	<string>English_UL</string>
+	<string>English</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_English - UL</key>
+	<key>KLInfo_UEng</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.english.english-ul</string>
+		<string>org.sil.ukelele.keyboardlayout.english.ueng</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>

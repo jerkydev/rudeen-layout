@@ -5,17 +5,17 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.russian</string>
 	<key>CFBundleName</key>
-	<string>Russian_UL</string>
+	<string>Russian</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Russian – UL</key>
+	<key>KLInfo_URus</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.russian.russian–ul</string>
+		<string>org.sil.ukelele.keyboardlayout.russian.urus</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru</string>
 	</dict>
